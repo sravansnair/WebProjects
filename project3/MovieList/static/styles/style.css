@@ -1,0 +1,9 @@
+body, html {
+    background-color: #181818;
+    box-sizing: border-box;
+    color: #fff;
+}
+selection{
+    text-color=red;
+
+}
